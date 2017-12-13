@@ -1,7 +1,7 @@
 # final-project-akopp3
 
-PipetteAidLite
-By: Abhinav Koppu
+PipetteAidLite<br />
+By: Abhinav Koppu<br />
 
 PipetteAidLite is based off the original PipetteAid program. It serves as a lighter and portable version, and incorporates new features such as Inventory tracking and a Smart Assistant. 
 

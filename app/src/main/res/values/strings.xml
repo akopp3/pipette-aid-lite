@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PipetteAidLite</string>
+    <string name="startButton1">New Protocol</string>
+    <string name="startButton2"> Use Existing Protocol</string>
+    <string name="title_activity_lab_bench">LabBenchActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

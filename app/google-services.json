@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132348121509",
+    "firebase_url": "https://pipetteaid2.firebaseio.com",
+    "project_id": "pipetteaid2",
+    "storage_bucket": "pipetteaid2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132348121509:android:0b86109033cbc9a1",
+        "android_client_info": {
+          "package_name": "com.akoppu.pipetteaid20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132348121509-rmff6v0gluu8ti6o91e502u3nhsjgh4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akoppu.pipetteaid20",
+            "certificate_hash": "a9c6b040a452075a70deea34fbe42482c0c737c8"
+          }
+        },
+        {
+          "client_id": "132348121509-qfqpgj6qa5sjrk1qreekrv77dhftuads.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Bas4anb8dDS8E__vUtiVMWjFyhmE3tM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132348121509-qfqpgj6qa5sjrk1qreekrv77dhftuads.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
